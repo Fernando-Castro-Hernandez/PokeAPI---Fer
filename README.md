@@ -1,4 +1,4 @@
-# Pokédex API de Fer 🔴⚪
+# Pokédex API 
 
 Proyecto de la materia **Programación Aplicada** (3er cuatrimestre). Es una API REST construida con **FastAPI** que implementa el ciclo CRUD completo sobre una Pokédex de la primera generación (Kanto), con persistencia en archivos JSON.
 
