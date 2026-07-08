@@ -1,0 +1,14 @@
+{
+    "6": {
+        "titulo": "El Psicoanalista",
+        "autor": "John Katzenbach",
+        "editorial": "Ediciones B",
+        "genero": [
+            "Misterio",
+            "Suspenso",
+            "Thriller Psicológico"
+        ],
+        "categoria": "Novela Negra",
+        "fecha_de_publicacion": "2002-01-29"
+    }
+}

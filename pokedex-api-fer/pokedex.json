@@ -1,0 +1,132 @@
+{
+    "1": {
+        "nombre": "Bulbasaur",
+        "tipo": [
+            "Planta",
+            "Veneno"
+        ],
+        "nivel": 5,
+        "habilidad": "Espesura",
+        "ataque": 49,
+        "defensa": 49,
+        "movimientos": [
+            "Placaje",
+            "Latigazo",
+            "Drenadoras",
+            "Hoja Afilada"
+        ]
+    },
+    "4": {
+        "nombre": "Charmander",
+        "tipo": [
+            "Fuego"
+        ],
+        "nivel": 5,
+        "habilidad": "Mar Llamas",
+        "ataque": 52,
+        "defensa": 43,
+        "movimientos": [
+            "Arañazo",
+            "Gruñido",
+            "Ascuas",
+            "Furia Dragón"
+        ]
+    },
+    "5": {
+        "nombre": "Charmeleon",
+        "tipo": [
+            "Fuego"
+        ],
+        "nivel": 16,
+        "habilidad": "Mar Llamas",
+        "ataque": 64,
+        "defensa": 58,
+        "movimientos": [
+            "Arañazo",
+            "Ascuas",
+            "Furia Dragón",
+            "Lanzallamas"
+        ]
+    },
+    "6": {
+        "nombre": "Charizard",
+        "tipo": [
+            "Fuego",
+            "Volador"
+        ],
+        "nivel": 36,
+        "habilidad": "Mar Llamas",
+        "ataque": 84,
+        "defensa": 78,
+        "movimientos": [
+            "Ascuas",
+            "Furia Dragón",
+            "Lanzallamas",
+            "Vuelo"
+        ]
+    },
+    "7": {
+        "nombre": "Squirtle",
+        "tipo": [
+            "Agua"
+        ],
+        "nivel": 5,
+        "habilidad": "Torrente",
+        "ataque": 48,
+        "defensa": 65,
+        "movimientos": [
+            "Placaje",
+            "Refugio",
+            "Pistola Agua",
+            "Giro Rápido"
+        ]
+    },
+    "8": {
+        "nombre": "Wartortle",
+        "tipo": [
+            "Agua"
+        ],
+        "nivel": 16,
+        "habilidad": "Torrente",
+        "ataque": 63,
+        "defensa": 80,
+        "movimientos": [
+            "Placaje",
+            "Pistola Agua",
+            "Giro Rápido",
+            "Mordisco"
+        ]
+    },
+    "9": {
+        "nombre": "Blastoise",
+        "tipo": [
+            "Agua"
+        ],
+        "nivel": 36,
+        "habilidad": "Torrente",
+        "ataque": 83,
+        "defensa": 100,
+        "movimientos": [
+            "Pistola Agua",
+            "Giro Rápido",
+            "Mordisco",
+            "Hidrobomba"
+        ]
+    },
+    "10": {
+        "nombre": "Caterpie",
+        "tipo": [
+            "Bicho"
+        ],
+        "nivel": 5,
+        "habilidad": "Polvo Escudo",
+        "ataque": 30,
+        "defensa": 35,
+        "movimientos": [
+            "Placaje",
+            "Disparo Demora",
+            "Picadura",
+            "Fortaleza"
+        ]
+    }
+}
